@@ -201,7 +201,8 @@ The Azure Linux Agent can automatically configure swap space using the local res
 
         # wget http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-5.noarch.rpm
         # rpm -ivh epel-release-7-5.noarch.rpm
-
+Note: If you recieve the error message "-bash: wget: command not found" then you need to install WGET.  You can do this by running the following command: # yum install wget
+	
 11.	Install the Azure Linux Agent by running the following command:
 
         # sudo yum install WALinuxAgent
