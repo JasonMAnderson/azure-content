@@ -51,7 +51,12 @@ The sections are broken down on the right of this page. (Links may occur in more
 
 ## Distros
 
-There are tons of Linux distributions, usually broken down by the package management systems: Some are dpkg-based, like Debian and Ubuntu, and others are rpm-based, like CentOS, SUSE, and RedHat. Some companies provide distro images as formal partners of Microsoft and are endorsed. Others are provided by the community. The distros in this section have formal articles about them, even if they were only used in examples of other technologies.
+There are tons of Linux distributions, usually broken down by the package management systems: Some are dpkg-based, like Debian and Ubuntu, and others are rpm-based, like CentOS, SUSE, and Red Hat. Some companies provide distro images as formal partners of Microsoft and are endorsed. Others are provided by the community. The distros in this section have formal articles about them, even if they were only used in examples of other technologies.
+
+### [Red Hat Enterprise Linux](https://azure.microsoft.com/en-us/marketplace/partners/redhat/)
+Red Hat Enterprise Linux is an open, reliable, and secure platform designed for customers who want deployment flexibility for their business-critical workloads - from the data center to the Azure cloud - backed by tightly integrated, enterprise-grade support from Red Hat and Microsoft.
+
+1. [How to: Upload your own Red Hat Image](virtual-machines-linux-create-upload-vhd-redhat.md)
 
 ### [Ubuntu](https://azure.microsoft.com/marketplace/partners/Canonical/)
 
